@@ -1,7 +1,7 @@
 version: "3"
 services:
   neko:
-    image: "vamshiyekbote/virtualbrowser:latest1"
+    image: "vamshiyekbote/virtualbrowser:latest2"
     restart: "unless-stopped"
     shm_size: "2gb"
     ports:
